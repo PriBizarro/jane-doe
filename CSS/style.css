@@ -66,3 +66,16 @@ footer p {
         padding: 0 20px;
     }
 }
+.about {
+    text-align: center;
+}
+.about img {
+    width: 300px;
+    }
+.contact {
+    text-align: left;
+    }
+#moldura{
+    max-width: 800px;
+    margin: 0 auto;
+}    
